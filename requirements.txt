@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas
+numpy
+matplotlib
+rank-bm25==0.2.2
+sentence-transformers
+torch
+sentencepiece
