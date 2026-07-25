@@ -14,7 +14,7 @@ The project is suitable for a **Data Science / NLP portfolio** because it covers
 
 
 
-[![Watch Demo Video](thumbnail_demo.png)]([docs/demo/demo-video.mp4](https://drive.google.com/file/d/1Zzbtse52FRU3Ld7Mpx4L5qnJdX-pVAEH/view?usp=sharing))
+[![Watch Demo Video](thumbnail_demo.png)](https://drive.google.com/file/d/1Zzbtse52FRU3Ld7Mpx4L5qnJdX-pVAEH/view?usp=sharing)
 
 
 
